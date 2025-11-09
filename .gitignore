@@ -3,3 +3,4 @@ build
 Move.lock
 .DS_Store*
 .vscode
+.notes.md
